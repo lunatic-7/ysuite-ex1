@@ -86,7 +86,6 @@ http://localhost/ysuite-ex1
 ## 🧑‍💻 Author
 
 **Wasif Nadeem**  
-[Portfolio](https://wasif-portfolio.netlify.app)  
-Feel free to fork, improve, or reach out!
+[Portfolio](https://wasif-portfolio.netlify.app) 
 
 ---
