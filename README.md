@@ -3,6 +3,8 @@
 
 This is a simple PHP + application to manage customer records. It allows you to add new customers via a Bootstrap 4 modal and displays them in a dynamic, searchable table using DataTables.
 
+https://github.com/user-attachments/assets/acf99c17-bdbd-403d-b2bd-3c41c8a2cd80
+
 ---
 
 ## 🔧 Tech Stack
